@@ -32,4 +32,4 @@ other models and gets the highest linearity between the predicted and actual dat
 Link- https://www.kaggle.com/code/sharmamanali/air-quality-index-analysis-ml-visualisation
 
 ### Deployment
-Link- update soon
+Link- http://54.81.224.208:8000/
