@@ -39,7 +39,7 @@ temporary Link- http://54.81.224.208:8000/
 # ------------------------------------------------------
 
 
-<font color="blue"># Deployment using Docker</font>
+**# Deployment using Docker**
 
 
 ## install docker  
@@ -87,7 +87,7 @@ docker run -p 8000:8000 shaiksaiteja/finalsemproject:newget
 # ----------------------------------------
 # ----------------------------------------
 
-<font color="blue"># Deployment using kubernetes</font>   
+**# Deployment using kubernetes**
 
 #### jenkins and java instllation   
 sudo apt update -y   
